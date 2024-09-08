@@ -1,8 +1,3 @@
-## Vamos criar um README.md incrível para seu projeto!
-
-**Aqui está uma sugestão, combinando o melhor dos dois mundos e adicionando mais detalhes:**
-
-```markdown
 ## ⚽ Neymar Jr. - A Máquina de Fazer Gols! ⚽
 
 ###  Sobre essa aplicação
