@@ -1,4 +1,4 @@
-## ⚽ Neymar Jr. - A Máquina de Fazer Gols! ⚽
+## ⚽ Neymar Jr. - A Máquina de Fazer Gols! ⚽ - Imersão alura com o Google Gemini
 
 ###  Sobre essa aplicação
 
